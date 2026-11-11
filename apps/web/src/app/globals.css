@@ -1,0 +1,4 @@
+@import "@staylo/ui/globals.css";
+
+/* Let Tailwind scan this app's source files. */
+@source "../";

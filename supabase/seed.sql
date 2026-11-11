@@ -1,0 +1,2 @@
+-- Staylo seed data. Intentionally empty in Phase 1.
+-- Phase 2 adds the demo hotels ("Grand Palace Chennai", "Sea Breeze Goa"), users and rooms.

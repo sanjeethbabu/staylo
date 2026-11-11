@@ -1,0 +1,8 @@
+node_modules
+.next
+dist
+coverage
+pnpm-lock.yaml
+supabase/.temp
+packages/db/src/types.ts
+staylo_build_plan.md
